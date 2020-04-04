@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-11-11_1215",
+    "name": "Valsanzibio",
     "currentPage": "index.html",
     "theme": {
       "name": "default",
@@ -13,7 +13,13 @@
     "siteFonts": [],
     "uniqCompNum": 25,
     "versionPublish": "4.11.2",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/10-chiesa-valsanzibio-128x85.png",
+    "": "on",
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": "undefined"
   },
   "pages": {
     "index.html": {
@@ -121,7 +127,7 @@
               "size": 0
             }
           },
-          "title": "PARROCCHIA di<br>SAN LORENZO",
+          "title": "PARROCCHIA DI<br>SAN LORENZO",
           "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.</p>",
           "_tags": [
             "Theme"
@@ -139,7 +145,7 @@
           },
           "headerAlign": "left",
           "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">VAI ALLA SQUILLA</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-7"
         },
@@ -181,7 +187,7 @@
           },
           "title": "MATERIALE PER LA PASQUA",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "Da qui è possibile visualizzare e scaricare il materiale per le famiglie in preparazione alla Santa Pasqua 2020",
+          "text": "Da qui è possibile scaricare il materiale per le famiglie in preparazione alla Santa Pasqua 2020",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"assets/files/Pasqua 2020 Famiglie.pdf.pdf\" data-toolbar=\"-mbrBtnMove\">MATERIALE PER FAMIGLIE</a>",
           "_tags": [
             "Theme"
@@ -312,8 +318,8 @@
           },
           "title": "SQUILLA",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Da questa pagina è possibile visualizzare e scaricare la squilla della settimana</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SQUILLA</a>",
+          "text": "<p>Da questa pagina è possibile scaricare la squilla della settimana</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"assets/files/Squilla.pdf\" data-toolbar=\"-mbrBtnMove\">SQUILLA</a>",
           "_tags": [
             "Theme"
           ],
@@ -421,8 +427,8 @@
               "state": "ok"
             }
           },
-          "text1": "<br><b>INDIRIZZO</b><br>Via Diana, 19<br>35030 Galzignano Termed (PD)<br><br>\n<strong>CONTATTI</strong><br>Don Jean Harelimana<br>3471685970<br>harelimana@libero.it<br><br>Parrocchia<br>0499130021<br>valsanzibio@diocesipadova.it<br><br>Scuola infanzia e Suore<br>0499130927",
-          "text2": "<p class=\"mbr-contacts__text\"><br></p><p class=\"mbr-contacts__text\"><b>ORARI SANTA MESSA</b><br></p><ul class=\"mbr-contacts__list\"><li>Sabato ore 18:00</li><li>Domenica ore 8:00 e ore 10:00</li><li>Le celebrazioni per il momento sono sospese</li></ul>",
+          "text1": "<br><b>INDIRIZZO</b><br>Via Diana, 19<br>35030 Galzignano Terme (PD)<br><br>\n<strong>CONTATTI</strong><br>Don Jean Harelimana<br>3471685970<br>harelimana@libero.it<br><br>Parrocchia<br>0499130021<br>valsanzibio@diocesipadova.it<br><br>Scuola infanzia e Suore<br>0499130927",
+          "text2": "<p class=\"mbr-contacts__text\"><br></p><p class=\"mbr-contacts__text\"><b>ORARI SANTA MESSA</b><br></p><ul class=\"mbr-contacts__list\"><li>Sabato ore 18:00</li><li>Domenica ore 8:00 e ore 10:00</li><li>Al momento tutte le celebrazioni sono sospese</li></ul>",
           "_tags": [
             "Theme"
           ],
