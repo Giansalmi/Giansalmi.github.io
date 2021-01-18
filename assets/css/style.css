@@ -709,6 +709,13 @@ section {
   position: relative;
 }
 
+.services .icon-lang {
+  border: 1px solid;
+  border-color: rgba(60, 67, 71, 0.205);
+  transition: all ease-in-out 0.3s;
+  box-shadow: 0px 5px 90px 0px rgba(110, 123, 131, 0.05);
+}
+
 .services .icon-box .icon i {
   font-size: 36px;
   transition: 0.5s;
@@ -746,6 +753,10 @@ section {
 .services .icon-box:hover {
   border-color: #fff;
   box-shadow: 0px 0 35px 0 rgba(0, 0, 0, 0.08);
+}
+
+.services .icon-lang:hover {
+  box-shadow: 0px 0 35px 0 rgba(0, 0, 0, 0.288);
 }
 
 .services .iconbox-blue i {
